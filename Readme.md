@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://github.com/KAVIBHARATHAN/KAVIBHARATHAN/assets/your-username/your-image-id" alt="Kavin Bharathi's animated header" />
+  <img src="https://github.com/KAVIBHARATHAN/KAVIBHARATHAN/assets/KAVIBHARATHAN/![Uploading eren-yeager-2560x1440-10405.jpg…]()
+" alt="FULL STACK DEVELOPER" />
 </h1>
 
 
