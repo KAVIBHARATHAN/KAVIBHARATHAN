@@ -1,8 +1,10 @@
-<!-- Typing animation using SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font= Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&color=F7D745&width=435&lines=Hi%2C+I'm+KaviBharathan;Full+Stack+Developer;Rust+%7C+Python+%7C+JavaScript+Lover" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+RAGAVAN+R+V!;Full+Stack+Developer;App+Developer" alt="markdown" />
+</h1>
 
+<h3 align="center">
+  <strong>🚀 Full Stack Developer | Passionate About Building Scalable Web Applications 💻</strong>
+</h3>
 
 # 👋 Hi, I’m KaviBharathan ()
 
