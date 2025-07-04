@@ -1,7 +1,7 @@
-<h1 align="center">
-  <img src="https://github.com/KAVIBHARATHAN/KAVIBHARATHAN/assets/KAVIBHARATHAN/![Uploading eren-yeager-2560x1440-10405.jpg…]()
-" alt="FULL STACK DEVELOPER" />
-</h1>
+<!-- Typing animation using SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&color=F7D745&width=435&lines=Hi%2C+I'm+Kavin+Bharathi;Full+Stack+Developer;Rust+%7C+Python+%7C+JavaScript+Lover" alt="Typing SVG" />
+</p>
 
 
 # 👋 Hi, I’m KaviBharathan ()
