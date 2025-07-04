@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+KAVIBHARATHAN+!;Full+Stack+Developer;App+Developer" alt="Typing Animation" />
+  <img src="https://github.com/KAVIBHARATHAN/KAVIBHARATHAN/assets/your-username/your-image-id" alt="Kavin Bharathi's animated header" />
 </h1>
-
-<h3 align="center">
-  <strong>🚀 Full Stack Developer | Passionate About Building Scalable Web Applications 💻</strong>
-</h3>
 
 
 # 👋 Hi, I’m KaviBharathan ()
