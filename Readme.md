@@ -3,13 +3,13 @@
 </h1>
 
 <h3 align="center">
-  <strong>🚀 Full Stack Developer | Passionate About Building Scalable Web Applications 💻</strong>
+  <strong>🚀 Full Stack Developer | Data Analyst 💻</strong>
 </h3>
 
 
 # 👋 Hi, I’m KaviBharathan ()
 
-### 🎯 Full Stack Developer • Computer Science Enthusiast
+### 🎯 Full Stack Developer • Data Analyst
 
 - 🔭 Currently focusing on dynamic web apps with **Next.js 14**, **React**, and **Node.js**
 - 🌱 Learning advanced containerized deployments with **Docker** & **Kubernetes**
